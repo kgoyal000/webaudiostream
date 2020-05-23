@@ -1,5 +1,5 @@
 It streams pcm chunks from the browser's mic into a node server through websockets.
-Check recorded audio at demo.wav inside browser-pcm-stream-master folder
+Check recorded audio at demo.wav inside webaudiostream folder
 
 To start run:
   Use These Commands Make sure node is installed in browser
